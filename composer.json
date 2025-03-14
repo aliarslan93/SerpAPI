@@ -1,0 +1,21 @@
+{
+    "name": "serpapi/dev",
+    "description": "Scrape Google and other search engines from our fast, easy, and complete API.",
+    "type": "discovery",
+    "license": "FREE",
+    "version": "1.0.3",
+    "authors": [
+        {
+            "name": "Ali ARSLAN"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Class\\": "Class/"
+        }
+    }
+    
+}
